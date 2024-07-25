@@ -71,9 +71,3 @@ Credits
 
 	•	The weather data is provided by OpenWeatherMap.
 	•	Icons made by Freepik from www.flaticon.com.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Feel free to modify and enhance this README file according to your project’s requirements.
