@@ -10,7 +10,6 @@ Table of Contents
 	•	Setup
 	•	Usage
 	•	Credits
-	•	License
 
 Demo
 
