@@ -34,7 +34,7 @@ Setup
 
 	1.	Clone the repository:
  git clone https://github.com/insung5422/weather-app.git
-cd weather-app
+ cd weather-app
 
 	2.	Open the index.html file in your web browser to see the application.
 
